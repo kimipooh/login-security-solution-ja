@@ -1,7 +1,7 @@
 login-security-solution-ja
 ==========================
 
-Japanese Translation for Login Security Solution plugin for WordPress 
+## Japanese Translation for Login Security Solution plugin for WordPress 
 
 - June 8, 2014: released for Login Security Solution 0.44.0.
 
